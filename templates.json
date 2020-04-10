@@ -1,1 +1,12 @@
-{}
+[
+  {
+    "type": "container",
+    "title": "LinuxGSM",
+    "description": "LinuxGSM is the command-line tool for quick, simple deployment and management of Linux dedicated game servers.",
+    "categories": ["docker"],
+    "platform": "linux",
+    "logo": "https://linuxgsm.com/wp-content/uploads/2018/10/lgsm-dark-square-512.png",
+    "image": "gameservermanagers/linuxgsm-docker:latest",
+    "network": "host"
+  }
+]
