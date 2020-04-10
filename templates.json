@@ -1,6 +1,6 @@
 [
   {
-    "type": "container",
+    "type": 1,
     "title": "LinuxGSM",
     "description": "LinuxGSM is the command-line tool for quick, simple deployment and management of Linux dedicated game servers.",
     "categories": ["docker"],
